@@ -1,0 +1,4 @@
+/backend/node_modules
+/client/node_modules
+/backend/.env
+/backend/ca.pem

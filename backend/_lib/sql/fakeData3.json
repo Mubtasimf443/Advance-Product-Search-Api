@@ -1,0 +1,1602 @@
+[
+    {
+        "_id": "afe519b8-4f45-494c-b85d-962fb7ef7bf1",
+        "name": "alcatel OT-983",
+        "price": 4378,
+        "cetegory": "alcatel",
+        "date": "2024-03-03",
+        "description": 1
+    },
+    {
+        "_id": "cfdbda83-074f-47bc-b2fd-7f05698b5635",
+        "name": "Xiaomi Redmi 9",
+        "price": 108,
+        "cetegory": "Xiaomi",
+        "date": "2024-07-22",
+        "description": 2
+    },
+    {
+        "_id": "09e3731d-9468-4e6b-920b-85f723bc1d99",
+        "name": "Panasonic T41",
+        "price": 410,
+        "cetegory": "Panasonic",
+        "date": "2023-02-23",
+        "description": 3
+    },
+    {
+        "_id": "d1ed8f6a-9f00-4c9f-989b-a46211611742",
+        "name": "Samsung Galaxy S21",
+        "price": 9860,
+        "cetegory": "Samsung",
+        "date": "2023-08-07",
+        "description": 4
+    },
+    {
+        "_id": "78df72e5-6417-4804-a89b-e5b16a7b7fad",
+        "name": "Huawei T161L",
+        "price": 844,
+        "cetegory": "Huawei",
+        "date": "2023-02-12",
+        "description": 5
+    },
+    {
+        "_id": "20babe6b-693a-41ef-ad51-8baca28a3f4f",
+        "name": "LG Marquee LS855",
+        "price": 4282,
+        "cetegory": "LG",
+        "date": "2023-05-13",
+        "description": 6
+    },
+    {
+        "_id": "026c6c73-ce2e-427b-b18d-4a2f4477baba",
+        "name": "ZTE Sage",
+        "price": 1250,
+        "cetegory": "ZTE",
+        "date": "2025-02-02",
+        "description": 7
+    },
+    {
+        "_id": "5c186dbc-52ea-4760-8d46-d706b2cab4b4",
+        "name": "VK Mobile VK1000",
+        "price": 7209,
+        "cetegory": "VK",
+        "date": "2024-07-06",
+        "description": 8
+    },
+    {
+        "_id": "ba1a38da-7896-4522-b065-9a308024340a",
+        "name": "HTC U11",
+        "price": 9990,
+        "cetegory": "HTC",
+        "date": "2023-01-02",
+        "description": 9
+    },
+    {
+        "_id": "21da6fb4-47d7-4574-a6c1-100cf62e6099",
+        "name": "alcatel One Touch _idol",
+        "price": 8284,
+        "cetegory": "alcatel",
+        "date": "2024-01-09",
+        "description": 10
+    },
+    {
+        "_id": "0aebdba1-7c05-409e-b73d-eec6d185adbe",
+        "name": "Celkon C367",
+        "price": 8134,
+        "cetegory": "Celkon",
+        "date": "2025-01-13",
+        "description": 11
+    },
+    {
+        "_id": "db4da75c-b370-4f3c-a6e9-411c790fff07",
+        "name": "HTC Desire 10 Lifestyle",
+        "price": 8006,
+        "cetegory": "HTC",
+        "date": "2024-02-21",
+        "description": 12
+    },
+    {
+        "_id": "dc3d804e-f741-4b13-84e9-9807811814e1",
+        "name": "Meizu M10",
+        "price": 7817,
+        "cetegory": "Meizu",
+        "date": "2023-05-01",
+        "description": 13
+    },
+    {
+        "_id": "83ae54cd-b66a-4b78-8b67-354004a731f1",
+        "name": "Lenovo LePad S2007",
+        "price": 9929,
+        "cetegory": "Lenovo",
+        "date": "2022-10-18",
+        "description": 14
+    },
+    {
+        "_id": "8897cc60-cfa3-47a5-a72a-9cfc0e1e11b0",
+        "name": "Samsung Galaxy Stratosphere II I415",
+        "price": 2200,
+        "cetegory": "Samsung",
+        "date": "2024-04-10",
+        "description": 15
+    },
+    {
+        "_id": "009656f2-8b25-43eb-9cf1-780c5725a60d",
+        "name": "Allview P9 Energy Lite (2017)",
+        "price": 2876,
+        "cetegory": "Allview",
+        "date": "2024-07-02",
+        "description": 16
+    },
+    {
+        "_id": "e0e16973-3ae0-4657-86cc-991d6c18cd2c",
+        "name": "Samsung E900",
+        "price": 3445,
+        "cetegory": "Samsung",
+        "date": "2024-11-02",
+        "description": 17
+    },
+    {
+        "_id": "49e20153-02fa-499b-833a-9d27690a3930",
+        "name": "Panasonic Eluga Icon",
+        "price": 4591,
+        "cetegory": "Panasonic",
+        "date": "2023-03-25",
+        "description": 18
+    },
+    {
+        "_id": "40d274f7-defc-4571-962f-4f52d7cc6e6d",
+        "name": "vivo Y27",
+        "price": 9940,
+        "cetegory": "vivo",
+        "date": "2024-10-06",
+        "description": 19
+    },
+    {
+        "_id": "baa5fe58-0e78-42ce-8a7c-71a2fc67aea2",
+        "name": "T-Mobile REVVL 4",
+        "price": 5682,
+        "cetegory": "T-Mobile",
+        "date": "2023-04-28",
+        "description": 20
+    },
+    {
+        "_id": "a7efe990-3c35-40ed-b01f-c2bec21f2453",
+        "name": "Spice Mi-498 Dream Uno",
+        "price": 1005,
+        "cetegory": "Spice",
+        "date": "2024-02-02",
+        "description": 21
+    },
+    {
+        "_id": "f9583579-73b3-4416-beca-0371b639cbb5",
+        "name": "Celkon CT 9",
+        "price": 8581,
+        "cetegory": "Celkon",
+        "date": "2022-09-29",
+        "description": 22
+    },
+    {
+        "_id": "1f6ad3c5-c2fb-485e-851b-d4595c70e18e",
+        "name": "Tecno Camon 16",
+        "price": 9333,
+        "cetegory": "Tecno",
+        "date": "2023-11-12",
+        "description": 23
+    },
+    {
+        "_id": "59cbda7c-2861-4e76-bd70-a32e7f79686e",
+        "name": "Mitsubishi M800",
+        "price": 4236,
+        "cetegory": "Mitsubishi",
+        "date": "2024-04-05",
+        "description": 24
+    },
+    {
+        "_id": "4e12bec4-bf2f-4182-a729-7822bdfa4689",
+        "name": "alcatel OT-C555",
+        "price": 5712,
+        "cetegory": "alcatel",
+        "date": "2024-08-09",
+        "description": 25
+    },
+    {
+        "_id": "6587091d-c8c8-4cc2-a530-113d6e518cd7",
+        "name": "Huawei nova 3",
+        "price": 611,
+        "cetegory": "Huawei",
+        "date": "2024-11-28",
+        "description": 26
+    },
+    {
+        "_id": "8dd4c143-55ca-4a7c-9add-a82013e082f1",
+        "name": "Lava X19",
+        "price": 956,
+        "cetegory": "Lava",
+        "date": "2024-01-29",
+        "description": 27
+    },
+    {
+        "_id": "05eeece2-420e-49a5-bd9a-571e2e543ccb",
+        "name": "O2 XDA II",
+        "price": 4023,
+        "cetegory": "O2",
+        "date": "2024-01-29",
+        "description": 28
+    },
+    {
+        "_id": "25f12f79-0b3f-4dee-9e8e-c441dfff24d9",
+        "name": "verykool s6004 Cyprus Jr.",
+        "price": 3232,
+        "cetegory": "verykool",
+        "date": "2024-10-21",
+        "description": 29
+    },
+    {
+        "_id": "e1ccf42f-5041-41df-bf59-4ab3bc9a1980",
+        "name": "LG Spectrum VS920",
+        "price": 553,
+        "cetegory": "LG",
+        "date": "2025-01-10",
+        "description": 30
+    },
+    {
+        "_id": "a69da9f3-e68d-4c04-9509-ac4949af9b72",
+        "name": "alcatel OT 715",
+        "price": 3700,
+        "cetegory": "alcatel",
+        "date": "2024-08-26",
+        "description": 31
+    },
+    {
+        "_id": "fbe01be7-8943-4f25-8526-c2aef575474e",
+        "name": "Motorola V878",
+        "price": 4421,
+        "cetegory": "Motorola",
+        "date": "2023-02-03",
+        "description": 32
+    },
+    {
+        "_id": "66be492d-3523-4db1-bc43-d11aad609d90",
+        "name": "Archos Diamond Gamma",
+        "price": 432,
+        "cetegory": "Archos",
+        "date": "2023-08-10",
+        "description": 33
+    },
+    {
+        "_id": "e823af68-7c31-4984-9107-d6d188b98290",
+        "name": "Philips D612",
+        "price": 8207,
+        "cetegory": "Philips",
+        "date": "2023-06-13",
+        "description": 34
+    },
+    {
+        "_id": "5e1d1d01-ffef-420a-a070-404e75048614",
+        "name": "Siemens C45",
+        "price": 4335,
+        "cetegory": "Siemens",
+        "date": "2024-03-20",
+        "description": 35
+    },
+    {
+        "_id": "604e127b-1cfa-4b48-9051-950819e756ec",
+        "name": "Huawei Ascend II",
+        "price": 346,
+        "cetegory": "Huawei",
+        "date": "2025-02-05",
+        "description": 36
+    },
+    {
+        "_id": "eaee3b0f-7a07-47da-b72c-36b77907e818",
+        "name": "Emporia Care Plus",
+        "price": 6936,
+        "cetegory": "Emporia",
+        "date": "2024-10-13",
+        "description": 37
+    },
+    {
+        "_id": "e4582cad-37da-4e74-87e9-b118fd7279b9",
+        "name": "Sony Xperia XZ Premium",
+        "price": 7955,
+        "cetegory": "Sony",
+        "date": "2023-02-26",
+        "description": 38
+    },
+    {
+        "_id": "42291705-fb39-48dd-9482-b2138e617bb7",
+        "name": "ZTE nubia Z17 miniS",
+        "price": 3185,
+        "cetegory": "ZTE",
+        "date": "2024-01-09",
+        "description": 39
+    },
+    {
+        "_id": "3247643c-3140-4eb2-927e-e5bf6ffc15b8",
+        "name": "Oppo A92",
+        "price": 9347,
+        "cetegory": "Oppo",
+        "date": "2024-05-13",
+        "description": 40
+    },
+    {
+        "_id": "a0ef751a-3753-4393-b39a-de59e3eb764f",
+        "name": "Maxon MX-C80",
+        "price": 1040,
+        "cetegory": "Maxon",
+        "date": "2023-11-05",
+        "description": 41
+    },
+    {
+        "_id": "45ac05a2-b789-4c55-9b8f-ee374c5c3dd7",
+        "name": "Coolpad Modena 2",
+        "price": 6459,
+        "cetegory": "Coolpad",
+        "date": "2024-10-23",
+        "description": 42
+    },
+    {
+        "_id": "577bad38-da0b-40ec-94e0-ccf4f63dc147",
+        "name": "Sony Xperia U",
+        "price": 2926,
+        "cetegory": "Sony",
+        "date": "2023-08-03",
+        "description": 43
+    },
+    {
+        "_id": "6a2f6062-cf43-4e73-9ff4-e2da3e182da6",
+        "name": "ZTE Axon 7s",
+        "price": 1267,
+        "cetegory": "ZTE",
+        "date": "2024-02-17",
+        "description": 44
+    },
+    {
+        "_id": "c69b5870-1b96-41bc-8e4d-bbc4242145d7",
+        "name": "Samsung T739 Katalyst",
+        "price": 3446,
+        "cetegory": "Samsung",
+        "date": "2023-02-16",
+        "description": 45
+    },
+    {
+        "_id": "9efd3a0a-1213-49e6-84ef-94b341e5d645",
+        "name": "Motorola A668",
+        "price": 231,
+        "cetegory": "Motorola",
+        "date": "2024-11-01",
+        "description": 46
+    },
+    {
+        "_id": "87d11f9b-f358-4c97-98dd-06f02f885a06",
+        "name": "Karbonn A2",
+        "price": 6096,
+        "cetegory": "Karbonn",
+        "date": "2024-06-16",
+        "description": 47
+    },
+    {
+        "_id": "95de7146-3e64-488f-be60-8fad41bf84de",
+        "name": "Samsung R640 Character",
+        "price": 8997,
+        "cetegory": "Samsung",
+        "date": "2024-03-19",
+        "description": 48
+    },
+    {
+        "_id": "0951c7ae-39ff-4405-a4b5-3ccef3c47a88",
+        "name": "Allview Start M7",
+        "price": 1993,
+        "cetegory": "Allview",
+        "date": "2023-06-01",
+        "description": 49
+    },
+    {
+        "_id": "e85572ad-35dc-4115-a443-82d3c1da0ed9",
+        "name": "Samsung Galaxy Pocket Neo S5310",
+        "price": 7373,
+        "cetegory": "Samsung",
+        "date": "2024-08-26",
+        "description": 50
+    },
+    {
+        "_id": "3aaa9e9b-3721-4701-9c31-50734ca61a8f",
+        "name": "Apple iPad 4 Wi-Fi",
+        "price": 3499,
+        "cetegory": "Apple",
+        "date": "2024-06-28",
+        "description": 51
+    },
+    {
+        "_id": "399ad1d7-455b-4c7e-8ef2-dabafe8899a8",
+        "name": "Asus M303",
+        "price": 6993,
+        "cetegory": "Asus",
+        "date": "2024-08-13",
+        "description": 52
+    },
+    {
+        "_id": "3d70800c-d105-425d-8ba3-d5cc89fc6a39",
+        "name": "LG Optimus L7 II Dual P715",
+        "price": 5010,
+        "cetegory": "LG",
+        "date": "2024-11-07",
+        "description": 53
+    },
+    {
+        "_id": "4e86fbef-c5e6-4441-a0f6-dd060b2f650b",
+        "name": "Philips 630",
+        "price": 3870,
+        "cetegory": "Philips",
+        "date": "2023-03-21",
+        "description": 54
+    },
+    {
+        "_id": "76f0ea10-cd70-4613-800f-e1d89b51784e",
+        "name": "Acer Liqu_id E700",
+        "price": 130,
+        "cetegory": "Acer",
+        "date": "2024-02-17",
+        "description": 55
+    },
+    {
+        "_id": "8b6c1c8a-3c8f-4965-a898-6f7860a5b864",
+        "name": "Sony Ericsson Jalou",
+        "price": 8176,
+        "cetegory": "Sony",
+        "date": "2025-01-01",
+        "description": 56
+    },
+    {
+        "_id": "abb6f9ae-d4b7-4e4f-adb3-b231d86312c2",
+        "name": "Lenovo Vibe Z K910",
+        "price": 1686,
+        "cetegory": "Lenovo",
+        "date": "2023-12-17",
+        "description": 57
+    },
+    {
+        "_id": "1d5dc96b-fdc2-4eae-b4a2-db1ecb999cfa",
+        "name": "ZTE Sonata 4G",
+        "price": 649,
+        "cetegory": "ZTE",
+        "date": "2023-09-18",
+        "description": 58
+    },
+    {
+        "_id": "f3118414-a463-4cc1-8676-c72e9c4fe87e",
+        "name": "ZTE Open",
+        "price": 9609,
+        "cetegory": "ZTE",
+        "date": "2024-05-29",
+        "description": 59
+    },
+    {
+        "_id": "2e17c824-9c6d-4529-ac8d-a26019aa005a",
+        "name": "LG G Pad 8.0",
+        "price": 5214,
+        "cetegory": "LG",
+        "date": "2024-05-28",
+        "description": 60
+    },
+    {
+        "_id": "fd629976-74e5-43ab-88f1-cd70be223c71",
+        "name": "Sharp Aquos Xx",
+        "price": 796,
+        "cetegory": "Sharp",
+        "date": "2023-08-28",
+        "description": 61
+    },
+    {
+        "_id": "4e73c01f-0822-41c0-b636-8ef0293d04b1",
+        "name": "LG Optimus M+ MS695",
+        "price": 3326,
+        "cetegory": "LG",
+        "date": "2024-12-19",
+        "description": 62
+    },
+    {
+        "_id": "ef9a7c61-bfa8-4c4e-9e23-074400aba354",
+        "name": "Sony Ericsson T650",
+        "price": 2919,
+        "cetegory": "Sony",
+        "date": "2024-01-02",
+        "description": 63
+    },
+    {
+        "_id": "d7cee653-6562-4a96-ab5f-a0eb73c58b35",
+        "name": "Karbonn A25",
+        "price": 5260,
+        "cetegory": "Karbonn",
+        "date": "2024-11-03",
+        "description": 64
+    },
+    {
+        "_id": "3526ed04-0863-4c85-829d-f43ed278636a",
+        "name": "Samsung Galaxy A3 (2016)",
+        "price": 6009,
+        "cetegory": "Samsung",
+        "date": "2022-11-16",
+        "description": 65
+    },
+    {
+        "_id": "5074edc9-65de-4da9-a335-af1b206e3923",
+        "name": "LG W10",
+        "price": 303,
+        "cetegory": "LG",
+        "date": "2023-10-07",
+        "description": 66
+    },
+    {
+        "_id": "4b56ae80-3af7-4d98-81cf-fd329aac7cee",
+        "name": "Realme 2",
+        "price": 3046,
+        "cetegory": "Realme",
+        "date": "2023-01-19",
+        "description": 67
+    },
+    {
+        "_id": "ce2fae28-d902-40c9-98ff-751d63ecd253",
+        "name": "Apple Watch Series 5",
+        "price": 5329,
+        "cetegory": "Apple",
+        "date": "2024-08-31",
+        "description": 68
+    },
+    {
+        "_id": "9a696933-5c38-48d9-8785-e9eadfb59f63",
+        "name": "alcatel OT-997D",
+        "price": 4142,
+        "cetegory": "alcatel",
+        "date": "2023-05-25",
+        "description": 69
+    },
+    {
+        "_id": "5a30c589-522b-4c50-8644-c7d6e2823b9e",
+        "name": "Motorola DRO_id RAZR MAXX HD",
+        "price": 7520,
+        "cetegory": "Motorola",
+        "date": "2023-06-17",
+        "description": 70
+    },
+    {
+        "_id": "1746cdf9-6ecc-4fea-a834-f9bf4a87090a",
+        "name": "Ericsson GA 318",
+        "price": 9304,
+        "cetegory": "Ericsson",
+        "date": "2024-01-01",
+        "description": 71
+    },
+    {
+        "_id": "395fcd09-3fe3-48d7-acfa-f99e65325d7e",
+        "name": "Lenovo LePhone S2",
+        "price": 5846,
+        "cetegory": "Lenovo",
+        "date": "2022-10-15",
+        "description": 72
+    },
+    {
+        "_id": "5b57d923-3f14-4f29-b306-bcd55ce4d735",
+        "name": "Wiko Bloom2",
+        "price": 9924,
+        "cetegory": "Wiko",
+        "date": "2022-11-23",
+        "description": 73
+    },
+    {
+        "_id": "2843576a-d699-40fe-8d48-536f54ae758f",
+        "name": "Huawei Ascend P7",
+        "price": 7846,
+        "cetegory": "Huawei",
+        "date": "2024-01-03",
+        "description": 74
+    },
+    {
+        "_id": "54a6ca58-78fa-4e37-a6b3-2057e560ead0",
+        "name": "Samsung E1160",
+        "price": 9095,
+        "cetegory": "Samsung",
+        "date": "2024-11-11",
+        "description": 75
+    },
+    {
+        "_id": "1c560fd8-e452-4969-a872-c8840c6dc0eb",
+        "name": "Huawei nova 2 plus",
+        "price": 4667,
+        "cetegory": "Huawei",
+        "date": "2022-10-12",
+        "description": 76
+    },
+    {
+        "_id": "92b6b3e7-9a06-4c85-8e9e-65d7222b9e5d",
+        "name": "ZTE Salute F350",
+        "price": 7561,
+        "cetegory": "ZTE",
+        "date": "2024-07-04",
+        "description": 77
+    },
+    {
+        "_id": "64f21a93-1c7d-4cd3-becf-ec00aa9c36af",
+        "name": "Samsung M2510",
+        "price": 1830,
+        "cetegory": "Samsung",
+        "date": "2023-12-30",
+        "description": 78
+    },
+    {
+        "_id": "4f1bac14-a266-4406-aa94-e8c624c6ef21",
+        "name": "LG MG295",
+        "price": 3128,
+        "cetegory": "LG",
+        "date": "2024-12-19",
+        "description": 79
+    },
+    {
+        "_id": "8421575a-9959-4deb-a560-14be5bdfa9d2",
+        "name": "Motorola RAZR V3",
+        "price": 2013,
+        "cetegory": "Motorola",
+        "date": "2023-02-12",
+        "description": 80
+    },
+    {
+        "_id": "55d75872-549c-4e76-a70d-e8e1930dc704",
+        "name": "Wiko Lenny3",
+        "price": 6009,
+        "cetegory": "Wiko",
+        "date": "2023-10-25",
+        "description": 81
+    },
+    {
+        "_id": "b6384144-63e2-446c-a376-dfcd2c58528f",
+        "name": "Cat S52",
+        "price": 7412,
+        "cetegory": "Cat",
+        "date": "2023-04-21",
+        "description": 82
+    },
+    {
+        "_id": "8de634ec-75ae-4243-b3ca-c3f2583e92ef",
+        "name": "Philips W6610",
+        "price": 5041,
+        "cetegory": "Philips",
+        "date": "2024-05-09",
+        "description": 83
+    },
+    {
+        "_id": "99d4084e-bf73-4cf4-8c98-66f5a6f3ca14",
+        "name": "XOLO A700s",
+        "price": 9248,
+        "cetegory": "XOLO",
+        "date": "2022-10-29",
+        "description": 84
+    },
+    {
+        "_id": "79dbb438-1ea6-4a4a-850a-75ccd7bbf59a",
+        "name": "Haier V200",
+        "price": 9964,
+        "cetegory": "Haier",
+        "date": "2024-10-21",
+        "description": 85
+    },
+    {
+        "_id": "da92468b-d2af-4075-b8fa-ab6a54181a50",
+        "name": "TCL 10 SE",
+        "price": 8876,
+        "cetegory": "TCL",
+        "date": "2023-08-15",
+        "description": 86
+    },
+    {
+        "_id": "4d3fe4a7-ee98-4870-98d3-53a375abd0b9",
+        "name": "Nokia 105 (2019)",
+        "price": 5913,
+        "cetegory": "Nokia",
+        "date": "2023-09-21",
+        "description": 87
+    },
+    {
+        "_id": "57e9de0b-9e8e-4869-b56f-d805bacd5f6f",
+        "name": "Lenovo S856",
+        "price": 6884,
+        "cetegory": "Lenovo",
+        "date": "2023-02-08",
+        "description": 88
+    },
+    {
+        "_id": "04104914-f505-4d9a-ade3-eb4ac8b5ea88",
+        "name": "Wiko Rainbow",
+        "price": 7846,
+        "cetegory": "Wiko",
+        "date": "2023-01-11",
+        "description": 89
+    },
+    {
+        "_id": "619b2f9b-8c6c-4ee0-ae38-b727aef475fa",
+        "name": "Kyocera E2500",
+        "price": 4638,
+        "cetegory": "Kyocera",
+        "date": "2024-06-27",
+        "description": 90
+    },
+    {
+        "_id": "c6eadcff-a649-498d-8a40-7ee54f5fbaa1",
+        "name": "HTC Titan",
+        "price": 5774,
+        "cetegory": "HTC",
+        "date": "2023-12-23",
+        "description": 91
+    },
+    {
+        "_id": "7b9d39c6-0e08-41fc-b20e-de18477872c6",
+        "name": "Xiaomi Mi 10T 5G",
+        "price": 2507,
+        "cetegory": "Xiaomi",
+        "date": "2023-10-09",
+        "description": 92
+    },
+    {
+        "_id": "80b24017-dadc-4cf2-8390-b4ef4fdf1e8b",
+        "name": "vivo U3",
+        "price": 1182,
+        "cetegory": "vivo",
+        "date": "2024-06-16",
+        "description": 93
+    },
+    {
+        "_id": "3cb947b8-3288-474d-a07d-6b859bc3259e",
+        "name": "Sony Xperia XZ3",
+        "price": 9617,
+        "cetegory": "Sony",
+        "date": "2023-07-01",
+        "description": 94
+    },
+    {
+        "_id": "e5976d33-5f18-4c9a-bb5f-f29c499ac1a1",
+        "name": "ZTE nubia Z20",
+        "price": 8339,
+        "cetegory": "ZTE",
+        "date": "2024-11-30",
+        "description": 95
+    },
+    {
+        "_id": "795f871e-f6c8-46a0-b29d-beb295b5366b",
+        "name": "Maxon MX-6811",
+        "price": 2445,
+        "cetegory": "Maxon",
+        "date": "2022-10-05",
+        "description": 96
+    },
+    {
+        "_id": "14f81bbe-a498-404e-9454-e053be315537",
+        "name": "Huawei nova",
+        "price": 8905,
+        "cetegory": "Huawei",
+        "date": "2022-10-03",
+        "description": 97
+    },
+    {
+        "_id": "57dac918-7a15-4c24-b11c-64129c21a4fc",
+        "name": "QMobile Noir i10",
+        "price": 7477,
+        "cetegory": "QMobile",
+        "date": "2024-01-28",
+        "description": 98
+    },
+    {
+        "_id": "ce3c84b2-8705-4200-bb4d-7a567d253ff9",
+        "name": "Samsung Galaxy Tab S5e",
+        "price": 6261,
+        "cetegory": "Samsung",
+        "date": "2023-10-22",
+        "description": 99
+    },
+    {
+        "_id": "10550a0e-0296-49ae-aa4f-9f19ccd32b17",
+        "name": "BLU X Link",
+        "price": 3796,
+        "cetegory": "BLU",
+        "date": "2024-09-22",
+        "description": 100
+    },
+    {
+        "_id": "46859a50-be5d-42e0-a22a-ecd4aef589e0",
+        "name": "BLU Life Pure",
+        "price": 2355,
+        "cetegory": "BLU",
+        "date": "2023-12-05",
+        "description": 101
+    },
+    {
+        "_id": "c31a0882-619c-43df-a675-1844b77db1a6",
+        "name": "Allview Impera M",
+        "price": 3420,
+        "cetegory": "Allview",
+        "date": "2023-02-14",
+        "description": 102
+    },
+    {
+        "_id": "8977a7c3-1e1e-476b-9248-c6f51bfc7101",
+        "name": "BLU Advance 4.0 M",
+        "price": 5260,
+        "cetegory": "BLU",
+        "date": "2023-08-01",
+        "description": 103
+    },
+    {
+        "_id": "47553ec2-55a6-4259-bd47-26db8adcdf98",
+        "name": "vivo X20 Plus",
+        "price": 1074,
+        "cetegory": "vivo",
+        "date": "2024-06-02",
+        "description": 104
+    },
+    {
+        "_id": "ff3525b2-f9c3-4345-8db0-b47f37f7246d",
+        "name": "Samsung E600",
+        "price": 9127,
+        "cetegory": "Samsung",
+        "date": "2024-08-25",
+        "description": 105
+    },
+    {
+        "_id": "ce1a6228-2587-4114-9a2f-bd703d9e1397",
+        "name": "Nokia Asha 302",
+        "price": 7636,
+        "cetegory": "Nokia",
+        "date": "2024-06-23",
+        "description": 106
+    },
+    {
+        "_id": "b32fbb92-bef7-4605-9d4b-00c9f5f9a56f",
+        "name": "Samsung i560",
+        "price": 7836,
+        "cetegory": "Samsung",
+        "date": "2023-06-07",
+        "description": 107
+    },
+    {
+        "_id": "e211f3e2-8b99-407a-9cf6-908ae25463bc",
+        "name": "Lenovo K5",
+        "price": 2017,
+        "cetegory": "Lenovo",
+        "date": "2024-01-05",
+        "description": 108
+    },
+    {
+        "_id": "b53b66b5-42d4-4af9-85e9-45290ea7173b",
+        "name": "Huawei T208",
+        "price": 850,
+        "cetegory": "Huawei",
+        "date": "2022-12-12",
+        "description": 109
+    },
+    {
+        "_id": "dc3fb0b0-ad95-4acd-ac61-d0d1fcd9fb66",
+        "name": "Samsung T401G",
+        "price": 4188,
+        "cetegory": "Samsung",
+        "date": "2024-11-15",
+        "description": 110
+    },
+    {
+        "_id": "3d43f911-58fd-4715-bb9b-a22068bda0c3",
+        "name": "Samsung Google Nexus 10 P8110",
+        "price": 4253,
+        "cetegory": "Samsung",
+        "date": "2024-06-23",
+        "description": 111
+    },
+    {
+        "_id": "538f138b-ed22-4e85-af0e-f5ba7aa7327d",
+        "name": "Samsung Galaxy Ace Advance S6800",
+        "price": 7263,
+        "cetegory": "Samsung",
+        "date": "2024-12-07",
+        "description": 112
+    },
+    {
+        "_id": "0bc60f95-b8b1-448e-9515-8c5dd1abf77a",
+        "name": "Celkon C007",
+        "price": 1771,
+        "cetegory": "Celkon",
+        "date": "2022-09-14",
+        "description": 113
+    },
+    {
+        "_id": "dde34fb4-2e8a-4d78-bfad-477061988eb7",
+        "name": "Yezz Andy A5",
+        "price": 3341,
+        "cetegory": "Yezz",
+        "date": "2022-12-02",
+        "description": 114
+    },
+    {
+        "_id": "98a514cd-bbec-40a9-8ab1-15416ca23b0d",
+        "name": "Sony Tablet P 3G",
+        "price": 1356,
+        "cetegory": "Sony",
+        "date": "2024-05-06",
+        "description": 115
+    },
+    {
+        "_id": "5bd06206-f446-480f-aa6d-01bd391cca9b",
+        "name": "TCL 10 5G",
+        "price": 4149,
+        "cetegory": "TCL",
+        "date": "2023-07-01",
+        "description": 116
+    },
+    {
+        "_id": "e0577ca0-13b7-48ad-85f4-d81a1ce3a521",
+        "name": "Oppo R819",
+        "price": 1958,
+        "cetegory": "Oppo",
+        "date": "2023-01-10",
+        "description": 117
+    },
+    {
+        "_id": "f86187d9-e431-478e-b615-7eeab9212395",
+        "name": "Philips X603",
+        "price": 3971,
+        "cetegory": "Philips",
+        "date": "2022-10-25",
+        "description": 118
+    },
+    {
+        "_id": "89239c84-3052-4167-9165-74c2348329bc",
+        "name": "LG A270",
+        "price": 2520,
+        "cetegory": "LG",
+        "date": "2023-02-14",
+        "description": 119
+    },
+    {
+        "_id": "2feddbe3-34b6-4d59-aabb-cfc99816ffac",
+        "name": "Energizer Energy E551S",
+        "price": 791,
+        "cetegory": "Energizer",
+        "date": "2023-01-08",
+        "description": 120
+    },
+    {
+        "_id": "08e1375f-c488-4612-9355-3a65c8514e0d",
+        "name": "LG G5300",
+        "price": 6348,
+        "cetegory": "LG",
+        "date": "2022-09-23",
+        "description": 121
+    },
+    {
+        "_id": "625efa96-d866-4671-a548-380561386575",
+        "name": "ZTE A261",
+        "price": 175,
+        "cetegory": "ZTE",
+        "date": "2024-08-25",
+        "description": 122
+    },
+    {
+        "_id": "c873b1a1-445e-47f0-980e-6d63a1078a1c",
+        "name": "Sony Ericsson K608",
+        "price": 8612,
+        "cetegory": "Sony",
+        "date": "2024-06-13",
+        "description": 123
+    },
+    {
+        "_id": "26ad7cd0-1a71-42e4-bf7a-3390f5501759",
+        "name": "Nokia 2690",
+        "price": 7095,
+        "cetegory": "Nokia",
+        "date": "2022-09-23",
+        "description": 124
+    },
+    {
+        "_id": "baf95454-37a6-4d24-bd8b-9e7d46c5026a",
+        "name": "Samsung Z310",
+        "price": 8856,
+        "cetegory": "Samsung",
+        "date": "2023-03-19",
+        "description": 125
+    },
+    {
+        "_id": "a236295f-ec96-46ea-a87a-35ab28136514",
+        "name": "Pantech G900",
+        "price": 9711,
+        "cetegory": "Pantech",
+        "date": "2023-04-09",
+        "description": 126
+    },
+    {
+        "_id": "e4378060-2b1b-4749-a3ba-e656f5fccc34",
+        "name": "Nokia 6212 classic",
+        "price": 627,
+        "cetegory": "Nokia",
+        "date": "2024-04-02",
+        "description": 127
+    },
+    {
+        "_id": "f95005c3-6ab2-4877-bfce-7140f231ebdb",
+        "name": "Samsung Galaxy J Max",
+        "price": 7542,
+        "cetegory": "Samsung",
+        "date": "2024-01-31",
+        "description": 128
+    },
+    {
+        "_id": "2041570a-52c6-409c-91c3-0193caf8b31a",
+        "name": "LG Q7",
+        "price": 5632,
+        "cetegory": "LG",
+        "date": "2023-06-23",
+        "description": 129
+    },
+    {
+        "_id": "ecbfeee2-b868-4e97-8248-678fd322eff2",
+        "name": "Nokia 2630",
+        "price": 6325,
+        "cetegory": "Nokia",
+        "date": "2024-04-14",
+        "description": 130
+    },
+    {
+        "_id": "3084a77b-1dfe-42b2-8646-ecffcac8d3ed",
+        "name": "Huawei nova 5T",
+        "price": 5281,
+        "cetegory": "Huawei",
+        "date": "2023-11-25",
+        "description": 131
+    },
+    {
+        "_id": "2bfa00ae-42ed-4a55-b3b5-0f119a905252",
+        "name": "Tel.Me. T918",
+        "price": 1943,
+        "cetegory": "Tel.Me.",
+        "date": "2024-12-15",
+        "description": 132
+    },
+    {
+        "_id": "1c0d002e-237d-451e-a01b-da51238997e5",
+        "name": "Acer Iconia One 7 B1-730",
+        "price": 7010,
+        "cetegory": "Acer",
+        "date": "2023-02-17",
+        "description": 133
+    },
+    {
+        "_id": "e45c60f5-b971-45e9-88f2-a144a70dfac7",
+        "name": "QMobile Noir i12",
+        "price": 1659,
+        "cetegory": "QMobile",
+        "date": "2024-11-08",
+        "description": 134
+    },
+    {
+        "_id": "19d4aa08-d1e4-4576-96c1-733347d53d91",
+        "name": "Nokia 3100",
+        "price": 4232,
+        "cetegory": "Nokia",
+        "date": "2024-06-01",
+        "description": 135
+    },
+    {
+        "_id": "3b9f7583-9750-43d1-bfdb-ad40c1bfbcb7",
+        "name": "LG Thrill 4G P925",
+        "price": 2658,
+        "cetegory": "LG",
+        "date": "2022-12-20",
+        "description": 136
+    },
+    {
+        "_id": "acb1c74d-4a24-4b29-a588-d5e23a868be1",
+        "name": "Samsung Galaxy S20 5G",
+        "price": 8711,
+        "cetegory": "Samsung",
+        "date": "2024-11-27",
+        "description": 137
+    },
+    {
+        "_id": "fb172ed2-1733-412d-acb9-2a7378a5b2bd",
+        "name": "Nokia X1-01",
+        "price": 7325,
+        "cetegory": "Nokia",
+        "date": "2024-11-19",
+        "description": 138
+    },
+    {
+        "_id": "d9fcf710-2473-4ec1-b1a0-5bf6c04fd887",
+        "name": "Nokia 702T",
+        "price": 194,
+        "cetegory": "Nokia",
+        "date": "2023-08-29",
+        "description": 139
+    },
+    {
+        "_id": "8116cce0-824a-486e-bbf3-1e8b16469924",
+        "name": "Allview X4 Soul Infinity Plus",
+        "price": 1047,
+        "cetegory": "Allview",
+        "date": "2023-06-06",
+        "description": 140
+    },
+    {
+        "_id": "bfc4b9be-5986-402b-b386-8a03dde989c9",
+        "name": "HTC Desire 630",
+        "price": 4518,
+        "cetegory": "HTC",
+        "date": "2023-06-10",
+        "description": 141
+    },
+    {
+        "_id": "5745218a-15d1-4b85-8292-596c013ff04e",
+        "name": "Samsung Galaxy A51",
+        "price": 2164,
+        "cetegory": "Samsung",
+        "date": "2023-09-14",
+        "description": 142
+    },
+    {
+        "_id": "ba14c471-0e4a-4d78-9a01-971c36670847",
+        "name": "LG BL20 New Chocolate",
+        "price": 8388,
+        "cetegory": "LG",
+        "date": "2022-10-29",
+        "description": 143
+    },
+    {
+        "_id": "6af5d6e4-989a-403f-88d2-6325e5784456",
+        "name": "Sony Xperia E1",
+        "price": 4507,
+        "cetegory": "Sony",
+        "date": "2023-02-15",
+        "description": 144
+    },
+    {
+        "_id": "0d57bfe7-1cc2-4ffe-94e8-79fca9ef3ac2",
+        "name": "vivo V17 Neo",
+        "price": 1499,
+        "cetegory": "vivo",
+        "date": "2023-04-23",
+        "description": 145
+    },
+    {
+        "_id": "010b03ca-de93-4f9f-a70f-24cc4ee36a37",
+        "name": "Samsung Galaxy Ace Advance S6800",
+        "price": 7426,
+        "cetegory": "Samsung",
+        "date": "2024-03-07",
+        "description": 146
+    },
+    {
+        "_id": "cd5c5710-6d9d-4625-9330-33357c9198a6",
+        "name": "NEC N160",
+        "price": 4161,
+        "cetegory": "NEC",
+        "date": "2023-04-14",
+        "description": 147
+    },
+    {
+        "_id": "7d949889-9339-4e7a-aea2-ffda988aae24",
+        "name": "Philips Azalis 238",
+        "price": 1657,
+        "cetegory": "Philips",
+        "date": "2023-09-30",
+        "description": 148
+    },
+    {
+        "_id": "65032f20-0f2d-4e46-bccb-4c0d01dde0b6",
+        "name": "Sony Ericsson W595",
+        "price": 1013,
+        "cetegory": "Sony",
+        "date": "2023-11-18",
+        "description": 149
+    },
+    {
+        "_id": "a1ab3297-932f-4368-b772-25fa51454344",
+        "name": "alcatel OT-813F",
+        "price": 5270,
+        "cetegory": "alcatel",
+        "date": "2023-05-25",
+        "description": 150
+    },
+    {
+        "_id": "9681ff24-8985-4df3-916d-140610a8bfc6",
+        "name": "BLU Energy X LTE",
+        "price": 5985,
+        "cetegory": "BLU",
+        "date": "2024-04-04",
+        "description": 151
+    },
+    {
+        "_id": "271c72f9-843b-4d58-bab1-16a35211322e",
+        "name": "Sony Ericsson Xperia neo V",
+        "price": 8433,
+        "cetegory": "Sony",
+        "date": "2022-10-04",
+        "description": 152
+    },
+    {
+        "_id": "d1b5337c-6d86-4492-a345-66181062b1d8",
+        "name": "Philips W625",
+        "price": 8370,
+        "cetegory": "Philips",
+        "date": "2023-04-25",
+        "description": 153
+    },
+    {
+        "_id": "76c3f571-bb1b-4920-8097-24373f01b767",
+        "name": "BLU Tank Xtreme Pro",
+        "price": 5566,
+        "cetegory": "BLU",
+        "date": "2024-09-15",
+        "description": 154
+    },
+    {
+        "_id": "894ed0df-903f-4a69-a039-c821dcc01c5a",
+        "name": "Apple iPhone 12 Pro",
+        "price": 8894,
+        "cetegory": "Apple",
+        "date": "2023-07-16",
+        "description": 155
+    },
+    {
+        "_id": "6fd49660-c6e5-47aa-9c23-bd1e82ba0672",
+        "name": "Honor 20",
+        "price": 7514,
+        "cetegory": "Honor",
+        "date": "2023-05-31",
+        "description": 156
+    },
+    {
+        "_id": "43081489-72d6-4e43-8f3c-629919482d9a",
+        "name": "Micromax A104 Canvas Fire 2",
+        "price": 9027,
+        "cetegory": "Micromax",
+        "date": "2023-06-14",
+        "description": 157
+    },
+    {
+        "_id": "e56f2535-3a47-484b-8c3c-18e86d519071",
+        "name": "NEC N342i",
+        "price": 4716,
+        "cetegory": "NEC",
+        "date": "2023-07-17",
+        "description": 158
+    },
+    {
+        "_id": "40262f7b-1a34-43f6-8ab8-4d91d849cd7e",
+        "name": "BQ Aquaris M5",
+        "price": 8073,
+        "cetegory": "BQ",
+        "date": "2023-08-12",
+        "description": 159
+    },
+    {
+        "_id": "79b9869e-4b61-4960-bdf4-e73961a215e0",
+        "name": "Samsung C200",
+        "price": 1707,
+        "cetegory": "Samsung",
+        "date": "2023-02-09",
+        "description": 160
+    },
+    {
+        "_id": "611f02fa-b35b-4c3b-8129-67d788d37eaa",
+        "name": "Ulefone Armor 3WT",
+        "price": 263,
+        "cetegory": "Ulefone",
+        "date": "2025-01-18",
+        "description": 161
+    },
+    {
+        "_id": "7b902d59-b543-4f0b-a07b-8203bfd033a2",
+        "name": "Amazon Fire 7",
+        "price": 5500,
+        "cetegory": "Amazon",
+        "date": "2023-09-20",
+        "description": 162
+    },
+    {
+        "_id": "02f044b8-b79e-4bdb-92cb-6511cc5788c6",
+        "name": "Samsung C210",
+        "price": 3386,
+        "cetegory": "Samsung",
+        "date": "2024-03-09",
+        "description": 163
+    },
+    {
+        "_id": "cf987284-06bd-4291-9182-419a59cc8fc7",
+        "name": "Samsung i927 Captivate Gl_ide",
+        "price": 1754,
+        "cetegory": "Samsung",
+        "date": "2024-03-27",
+        "description": 164
+    },
+    {
+        "_id": "bdb589dd-4b6a-4c99-b975-e4f196f122a0",
+        "name": "LG GB270",
+        "price": 6617,
+        "cetegory": "LG",
+        "date": "2024-11-27",
+        "description": 165
+    },
+    {
+        "_id": "94d66141-ad2f-4cf8-a786-a5bbb0cfad83",
+        "name": "BenQ-Siemens SL91",
+        "price": 8643,
+        "cetegory": "BenQ-Siemens",
+        "date": "2023-09-28",
+        "description": 166
+    },
+    {
+        "_id": "1293acdf-afc8-407f-9106-fd94f8ac3559",
+        "name": "Sharp 770SH",
+        "price": 8781,
+        "cetegory": "Sharp",
+        "date": "2023-07-25",
+        "description": 167
+    },
+    {
+        "_id": "7f49655d-3627-4dd2-b078-ff4b0ff39a7c",
+        "name": "Samsung V100",
+        "price": 1568,
+        "cetegory": "Samsung",
+        "date": "2023-08-14",
+        "description": 168
+    },
+    {
+        "_id": "1606ea89-d239-4d6a-a83a-d362ee012aa8",
+        "name": "alcatel OT-706",
+        "price": 86,
+        "cetegory": "alcatel",
+        "date": "2022-09-24",
+        "description": 169
+    },
+    {
+        "_id": "3eb5f062-4fa0-49d6-b24a-d9ef0c046a3f",
+        "name": "LG U8210",
+        "price": 5743,
+        "cetegory": "LG",
+        "date": "2024-02-19",
+        "description": 170
+    },
+    {
+        "_id": "f741526e-b681-451f-afa4-5123c294a414",
+        "name": "BlackBerry 6720",
+        "price": 4688,
+        "cetegory": "BlackBerry",
+        "date": "2023-01-13",
+        "description": 171
+    },
+    {
+        "_id": "6fb9b0f3-be7f-4c03-91a5-a1fad7ede063",
+        "name": "LG B2250",
+        "price": 8038,
+        "cetegory": "LG",
+        "date": "2024-09-28",
+        "description": 172
+    },
+    {
+        "_id": "a775a706-9528-4362-b129-ad719474398c",
+        "name": "Sony Xperia Z3 Dual",
+        "price": 7297,
+        "cetegory": "Sony",
+        "date": "2023-02-25",
+        "description": 173
+    },
+    {
+        "_id": "896c6b5d-476d-4cfd-99da-f758965482ce",
+        "name": "Coolpad Cool Play 6",
+        "price": 7775,
+        "cetegory": "Coolpad",
+        "date": "2023-03-29",
+        "description": 174
+    },
+    {
+        "_id": "b9c0b8d5-287c-4043-8066-75930a0ca573",
+        "name": "Philips 350",
+        "price": 2451,
+        "cetegory": "Philips",
+        "date": "2022-10-14",
+        "description": 175
+    },
+    {
+        "_id": "f27c6809-6fc8-4e54-bf77-01a7cadf77e9",
+        "name": "Samsung Galaxy S Duos S7562",
+        "price": 8780,
+        "cetegory": "Samsung",
+        "date": "2024-09-07",
+        "description": 176
+    },
+    {
+        "_id": "8d37e5f5-484d-4e9f-8323-fd25f782d7c8",
+        "name": "LG KM710",
+        "price": 7623,
+        "cetegory": "LG",
+        "date": "2022-12-05",
+        "description": 177
+    },
+    {
+        "_id": "a278ec28-06e5-4ca8-aab9-ea0e03ad8b80",
+        "name": "Spice S-5420",
+        "price": 9300,
+        "cetegory": "Spice",
+        "date": "2023-04-02",
+        "description": 178
+    },
+    {
+        "_id": "4e909c5b-70bd-4a5c-9d01-c0c4652516b7",
+        "name": "LG M6100",
+        "price": 2636,
+        "cetegory": "LG",
+        "date": "2024-04-09",
+        "description": 179
+    },
+    {
+        "_id": "3d66ee42-a9e7-40d7-b36b-db295130fb00",
+        "name": "Vodafone 1231",
+        "price": 5092,
+        "cetegory": "Vodafone",
+        "date": "2024-04-19",
+        "description": 180
+    },
+    {
+        "_id": "d9929ae9-3ab5-4c3e-8c0b-7fdfdb7722d7",
+        "name": "Motorola C117",
+        "price": 8597,
+        "cetegory": "Motorola",
+        "date": "2023-09-22",
+        "description": 181
+    },
+    {
+        "_id": "97b2c399-e9f7-478b-8cc5-6ebe34494ba6",
+        "name": "Sonim XP2.10 Spirit",
+        "price": 9035,
+        "cetegory": "Sonim",
+        "date": "2023-01-26",
+        "description": 182
+    },
+    {
+        "_id": "aee1fa1b-54b1-4acb-9511-460c5380de96",
+        "name": "Cat S50",
+        "price": 1742,
+        "cetegory": "Cat",
+        "date": "2023-01-22",
+        "description": 183
+    },
+    {
+        "_id": "5ac7f39f-9228-4652-8a24-5fc5628fa90b",
+        "name": "Amoi CS6",
+        "price": 8572,
+        "cetegory": "Amoi",
+        "date": "2024-01-05",
+        "description": 184
+    },
+    {
+        "_id": "0150b295-5c14-40f8-b9ba-12c8605a01bb",
+        "name": "Ulefone Armor X6",
+        "price": 7381,
+        "cetegory": "Ulefone",
+        "date": "2023-01-08",
+        "description": 185
+    },
+    {
+        "_id": "ba89cba5-dd9a-4a72-838d-e98fdc9bf7a1",
+        "name": "Celkon C5",
+        "price": 6819,
+        "cetegory": "Celkon",
+        "date": "2024-04-12",
+        "description": 186
+    },
+    {
+        "_id": "6b85fa98-a611-4740-8e8f-8531e4c4acbb",
+        "name": "Lava V5",
+        "price": 9988,
+        "cetegory": "Lava",
+        "date": "2025-01-30",
+        "description": 187
+    },
+    {
+        "_id": "82508e5b-7bee-418e-8d94-63a380e7dd7b",
+        "name": "Vertu Constellation Quest",
+        "price": 8192,
+        "cetegory": "Vertu",
+        "date": "2025-01-11",
+        "description": 188
+    },
+    {
+        "_id": "edf712b6-7cba-4c28-b4f3-b34d98fa4c50",
+        "name": "Energizer Energy 240",
+        "price": 4312,
+        "cetegory": "Energizer",
+        "date": "2024-07-10",
+        "description": 189
+    },
+    {
+        "_id": "6581e931-5943-4d42-b5d3-cb4d178c850e",
+        "name": "BLU Studio J1",
+        "price": 5223,
+        "cetegory": "BLU",
+        "date": "2024-03-08",
+        "description": 190
+    },
+    {
+        "_id": "05abfe09-6c14-4a1d-b80e-f658439ccf53",
+        "name": "Samsung B7320 OmniaPRO",
+        "price": 3707,
+        "cetegory": "Samsung",
+        "date": "2024-02-06",
+        "description": 191
+    },
+    {
+        "_id": "44d19d71-589b-4f01-b31a-ce4d092cb26d",
+        "name": "LG Optimus F3Q",
+        "price": 1479,
+        "cetegory": "LG",
+        "date": "2024-07-31",
+        "description": 192
+    },
+    {
+        "_id": "8185a7b5-6f63-4ce4-920b-5a05c05ffd41",
+        "name": "Micromax X101",
+        "price": 9754,
+        "cetegory": "Micromax",
+        "date": "2022-11-14",
+        "description": 193
+    },
+    {
+        "_id": "6e721bd4-0c5a-4cf1-9615-f1a3c3843d18",
+        "name": "Motorola V500",
+        "price": 720,
+        "cetegory": "Motorola",
+        "date": "2022-10-14",
+        "description": 194
+    },
+    {
+        "_id": "9c24ec44-d6fb-480f-99a2-6645353b318d",
+        "name": "HTC Desire U",
+        "price": 7280,
+        "cetegory": "HTC",
+        "date": "2023-07-23",
+        "description": 195
+    },
+    {
+        "_id": "46a3e812-c3e9-4c03-a73d-1444d7377301",
+        "name": "Lenovo Golden Warrior A8",
+        "price": 1900,
+        "cetegory": "Lenovo",
+        "date": "2022-12-19",
+        "description": 196
+    },
+    {
+        "_id": "1da90581-8994-41df-8a80-0a5b155605a8",
+        "name": "Sagem my230x",
+        "price": 6920,
+        "cetegory": "Sagem",
+        "date": "2024-07-09",
+        "description": 197
+    },
+    {
+        "_id": "cc0ad6ad-60f0-4c85-9010-2672cd24d055",
+        "name": "ZTE N280",
+        "price": 4521,
+        "cetegory": "ZTE",
+        "date": "2024-06-09",
+        "description": 198
+    },
+    {
+        "_id": "5aafc511-21ba-4a73-ab9e-1f3e7fe2e5c7",
+        "name": "Acer Liqu_id S2",
+        "price": 7984,
+        "cetegory": "Acer",
+        "date": "2022-12-15",
+        "description": 199
+    },
+    {
+        "_id": "a4ccbd69-56e4-4e3d-844d-c90599bdcb7f",
+        "name": "Asus Zenfone 3 Laser ZC551KL",
+        "price": 2463,
+        "cetegory": "Asus",
+        "date": "2024-05-07",
+        "description": 200
+    }
+]

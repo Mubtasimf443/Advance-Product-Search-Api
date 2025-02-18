@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Modern E-Commerce Product Search</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700">
+  <style>
+    /* Basic Reset */
+  </style>
+</head>
+<body>
+  <div class="search-container">
+    <div class="search-header">
+      <h1>Find Your Perfect Product</h1>
+      <p>Search from a wide range of quality products</p>
+    </div>
+    <input type="text" id="searchInput" placeholder="Search products...">
+    
+    <div class="filters">
+      <div class="filter-group">
+        <label for="categoryFilter">Category</label>
+        <select id="categoryFilter">
+          <option value="">All</option>
+          <option value="electronics">Electronics</option>
+          <option value="clothing">Clothing</option>
+          <option value="books">Books</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label>Price Range</label>
+        <div style="display: flex; gap: 5px;">
+          <input type="number" id="minPrice" placeholder="Min" min="0">
+          <input type="number" id="maxPrice" placeholder="Max" min="0">
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <label for="sortBy">Sort By</label>
+        <select id="sortBy">
+          <option value="newest">Newest First</option>
+          <option value="oldest">Oldest First</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="products-grid" id="productsContainer">
+      <!-- Skeleton loaders initially -->
+      <div class="skeleton-card">
+        <div class="skeleton skeleton-title"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-price"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-text"></div>
+      </div>
+      <div class="skeleton-card">
+        <div class="skeleton skeleton-title"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-price"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-text"></div>
+      </div>
+      <div class="skeleton-card">
+        <div class="skeleton skeleton-title"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-price"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-text"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Sample product data
+    const products = [
+      { 
+          id: 1,
+          name: 'Laptop', 
+          category: 'electronics',
+          price: 999,
+          date: '2024-03-15',
+          description: 'High performance laptop'
+      },
+      { 
+          id: 2,
+          name: 'T-Shirt', 
+          category: 'clothing',
+          price: 29.99,
+          date: '2024-02-10',
+          description: 'Comfortable cotton t-shirt'
+      },
+      { 
+          id: 3,
+          name: 'JavaScript Book', 
+          M: 'books',
+          price: 39.99,
+          date: '2024-03-01',
+          description: 'Learn JavaScript programming from scratch'
+      },
+      // Add more products as needed
+    ];
+
+    // Get filter elements
+    const searchInput = document.getElementById('searchInput');
+    const categoryFilter = document.getElementById('categoryFilter');
+    const minPrice = document.getElementById('minPrice');
+    const maxPrice = document.getElementById('maxPrice');
+    const sortBy = document.getElementById('sortBy');
+    const productsContainer = document.getElementById('productsContainer');
+
+    // Event listeners for filters
+    [searchInput, categoryFilter, minPrice, maxPrice, sortBy].forEach(element => {
+      element.addEventListener('input', filterProducts);
+      element.addEventListener('change', filterProducts);
+    });
+
+    function filterProducts() {
+      const searchTerm = searchInput.value.toLowerCase();
+      const category = categoryFilter.value;
+      const min = parseFloat(minPrice.value) || 0;
+      const max = parseFloat(maxPrice.value) || Infinity;
+      const sortOrder = sortBy.value;
+
+      let filtered = products.filter(product => {
+        const matchesSearch = product.name.toLowerCase().includes(searchTerm) || 
+                                product.description.toLowerCase().includes(searchTerm);
+        const matchesCategory = !category || product.category === category;
+        const matchesPrice = product.price >= min && product.price <= max;
+        return matchesSearch && matchesCategory && matchesPrice;
+      });
+
+      // Sort products
+      filtered.sort((a, b) => {
+        if (sortOrder === 'newest') {
+          return new Date(b.date) - new Date(a.date);
+        } else {
+          return new Date(a.date) - new Date(b.date);
+        }
+      });
+
+      renderProducts(filtered);
+    }
+
+    function renderProducts(productsToRender) {
+      // Clear container
+      productsContainer.innerHTML = '';
+
+      if (productsToRender.length === 0) {
+        productsContainer.innerHTML = '<p style="text-align: center; width: 100%;">No products found.</p>';
+        return;
+      }
+
+      productsToRender.forEach(product => {
+        const productCard = document.createElement('div');
+        productCard.className = 'product-card';
+        productCard.innerHTML = `
+          <h3>${product.name}</h3>
+          <div class="product-category">${product.category}</div>
+          <div class="product-price">$${product.price.toFixed(2)}</div>
+          <div class="product-date">Added: ${product.date}</div>
+          <p class="product-description">${product.description}</p>
+        `;
+        productsContainer.appendChild(productCard);
+      });
+    }
+
+    // Simulate API loading delay with skeleton loaders
+    function loadProducts() {
+      // Show skeleton loaders for 2 seconds
+      productsContainer.innerHTML = `
+        <div class="skeleton-card">
+          <div class="skeleton skeleton-title"></div>
+          <div class="skeleton skeleton-text"></div>
+          <div class="skeleton skeleton-price"></div>
+          <div class="skeleton skeleton-text"></div>
+          <div class="skeleton skeleton-text"></div>
+        </div>
+        <div class="skeleton-card">
+          <div class="skeleton skeleton-title"></div>
+          <div class="skeleton skeleton-text"></div>
+          <div class="skeleton skeleton-price"></div>
+          <div class="skeleton skeleton-text"></div>
+          <div class="skeleton skeleton-text"></div>
+        </div>
+        <div class="skeleton-card">
+          <div class="skeleton skeleton-title"></div>
+          <div class="skeleton skeleton-text"></div>
+          <div class="skeleton skeleton-price"></div>
+          <div class="skeleton skeleton-text"></div>
+          <div class="skeleton skeleton-text"></div>
+        </div>
+      `;
+      setTimeout(() => {
+        renderProducts(products);
+      }, 2000);
+    }
+
+    // Initial load with skeleton animation
+    loadProducts();
+  </script>
+</body>
+</html>

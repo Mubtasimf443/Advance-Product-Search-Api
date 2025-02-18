@@ -1,0 +1,1 @@
+UPDATE products SET cetegory = 'Any' WHERE cetegory='undefined';
